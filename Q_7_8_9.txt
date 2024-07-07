@@ -1,0 +1,43 @@
+How to Install React JS on Windows and Linux Operating System?
+To install React JS, you need Node JS and NPM installed on your system. Here’s how you can do it:
+
+Windows:
+Install Node.js and NPM:
+
+Download the installer from Node.js official website.
+Run the installer and follow the prompts to install Node.js and NPM.
+Install Create React App CLI:
+Open a command prompt and run:
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+Linux:
+Install Node.js and NPM:
+
+Open a terminal and run:
+sudo apt update
+sudo apt install nodejs npm
+
+Install Create React App CLI:
+npx create-react-app my-app
+cd my-app
+npm start
+
+How to Check Version of NPM?
+To check the version of NPM, open your terminal or command prompt and run:
+npm -v
+
+How to Check Version of React JS?
+To check the version of React JS used in your project, open the package.json file in your project directory and look for the react entry in the dependencies section:
+
+"dependencies": {
+  "react": "^17.0.2",
+  
+}
+
+How to Change Components in React JS?
+To change components in React JS, you need to modify the corresponding JavaScript or JSX files. 
+
+After making changes, save the file, and if your development server is running (using npm start), the changes should automatically be reflected in your browser.

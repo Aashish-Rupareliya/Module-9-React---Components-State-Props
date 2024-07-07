@@ -1,0 +1,6 @@
+What are Header and Content Components in React JS?
+Header Component:
+A header component is typically used to display the navigation bar, logo, and other introductory elements at the top of a web page.
+
+Content Component:
+A content component is used to display the main content of a web page. It can include various sections like articles, images, or any other information.

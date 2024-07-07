@@ -1,0 +1,2 @@
+What is NPM in React JS?
+NPM stands for Node Package Manager. It is the default package manager for Node.js and is used to manage dependencies (libraries and packages) in a project. In the context of React JS, NPM is used to install React and other JavaScript libraries that you need for your project. It helps in managing the versions and dependencies of these packages.
